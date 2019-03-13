@@ -50,8 +50,7 @@
 #eventcolumn {
     margin-top: 20px;
     margin-bottom: 20px;
-
- 
+   color: #D6CDCD;
 }
 
 #eventcolumn > img {
@@ -70,7 +69,7 @@
 }
 
 #företag {
-    background-color:#29200B;
+    background-color: #29200B;
     color: #F38356;
     text-align: center;
 
@@ -82,6 +81,7 @@
 #företagColumn {
     margin-top: 20px;
     margin-bottom: 20px;
+    color: #D6CDCD;
 }
 
 
@@ -92,6 +92,7 @@
 
     border-radius: 5px;
 }
+
 
 
             /*RACE KOLUMNEN*/
