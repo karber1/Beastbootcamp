@@ -1,3 +1,5 @@
+        /*NAV OCH KARUSELL*/
+
 .navbar{
     background-color: #535946;
     color: #F38356;
@@ -30,6 +32,9 @@
     margin-top: 10px;   
 }
 
+
+            /*EVENT KOLUMNEN*/
+
 #eventBG{
     background-color: #5F6F53;
 }
@@ -58,7 +63,7 @@
 
 }
 
-
+            /*FÖRETAGS KOLUMNEN*/
 
 #företagBG{
     background-color: #29200B;
@@ -88,6 +93,10 @@
     border-radius: 5px;
 }
 
+
+            /*RACE KOLUMNEN*/
+
+
 #raceBG{
     background-color: #54594D;
 }
@@ -102,25 +111,7 @@
 
 }
 
-
-
-#footer{
-    background-color: #535946;
-    color: #D6CDCD;
-    text-align: center;
-    padding-top: 10px;
-
-}
-
-
-
-
-.col > p {
-    color: #D6CDCD;
-    margin-bottom: 30px;
-    
-}
-
+        /*FORMULÄR KOLUMNERNA*/
 
 #bokaBG{
     background-color: #5F6F53;
@@ -167,3 +158,18 @@ form > button {
     background-color: #D6CDCD;
 }
 
+/*Footer*/
+
+#footer{
+    background-color: #535946;
+    color: #D6CDCD;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.col > p {
+    color: #D6CDCD;
+    margin-bottom: 30px;
+    
+}
