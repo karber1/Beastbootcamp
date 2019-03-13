@@ -1,0 +1,169 @@
+.navbar{
+    background-color: #535946;
+    color: #F38356;
+    height: 70px;
+
+}
+
+.carousel-caption{
+    background-color: #535946;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 0px 20px 71px -21px #000000;
+    
+}
+.carousel-caption > h5{
+    color: #F38356;
+}
+
+.carousel-caption > p{
+    color: #D6CDCD;
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+.nav-item > a{
+    color: #D6CDCD; 
+    font-size: 20px;
+    margin-top: 10px;   
+}
+
+#eventBG{
+    background-color: #5F6F53;
+}
+
+#event{
+    background-color: #5F6F53;
+    color: #F38356;
+    text-align: center;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#eventcolumn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+ 
+}
+
+#eventcolumn > img {
+    width: 300px;
+    height: 200px;
+
+    border-radius: 5px;
+    box-shadow: 2px -22px 121px -42px rgba(0,0,0,0.75);
+
+}
+
+
+
+#företagBG{
+    background-color: #29200B;
+}
+
+#företag {
+    background-color:#29200B;
+    color: #F38356;
+    text-align: center;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+#företagColumn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#företagColumn > img {
+
+    width: 300px;
+    height: 200px;
+
+    border-radius: 5px;
+}
+
+#raceBG{
+    background-color: #54594D;
+}
+
+#race{
+    background-color: #54594D;
+    color: #F38356;
+    text-align: center;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+
+
+#footer{
+    background-color: #535946;
+    color: #D6CDCD;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+
+
+
+.col > p {
+    color: #D6CDCD;
+    margin-bottom: 30px;
+    
+}
+
+
+#bokaBG{
+    background-color: #5F6F53;
+}
+
+#boka{
+    background-color: #5F6F53;
+    color: #F38356;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#boka > h2 {
+    text-align: center;
+}
+
+#bokaInstBG{
+    background-color:#29200B;
+
+}
+
+#bokaInst{
+    background-color:#29200B;
+    color: #F38356;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#bokaInst > h2{
+text-align: center;
+margin-bottom: 20px;
+}
+
+form > button {
+   margin-top: 20px;
+}
+
+.btn {
+    background-color:  #F38356;
+    
+    border: none;
+}
+
+.btn:hover{
+    background-color: #D6CDCD;
+}
+

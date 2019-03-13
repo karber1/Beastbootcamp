@@ -1,0 +1,9 @@
+Tre sidor. En startsida som visar vad företaget erbjuder, en anmälnings för anmälning till events och en specifikt för racet.
+
+Sticky Header
+Stor header, några bilder som syns en viss tid och sedan byts bild (reklam för olika events företaget erbjuder. JS).
+
+sektioner med olika mängd bilder för olika träningsevents. 
+
+
+
